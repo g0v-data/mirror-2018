@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+  <identifier>CWB-EQ107015-2018-0205-115504</identifier>
+  <sender>CWB_SC@scman.cwb.gov.tw</sender>
+  <sent>2018-02-05T12:00:35+08:00</sent>
+  <status>Actual</status>
+  <msgType>Issue</msgType>
+  <source>CWB</source>
+  <scope>Public</scope>
+  <dataset>
+    <datasetInfo>
+      <datasetDescription>地震報告</datasetDescription>
+      <datasetLanguage>zh-TW</datasetLanguage>
+      <issueTime>2018-02-05T12:00:35+08:00</issueTime>
+      <validTime><endTime>2018-02-05T20:00:35+08:00</endTime></validTime>
+    </datasetInfo>
+    <earthquake>
+      <reportType>地震報告</reportType>
+      <earthquakeNo>107015</earthquakeNo>
+      <reportContent>02/05-11:55花蓮縣近海發生規模4.1有感地震，最大震度宜蘭縣南澳4級。</reportContent>
+      <reportColor>綠色</reportColor>
+      <web>http://scweb.cwb.gov.tw/GraphicContent.aspx?ItemId=49&amp;fileString=2018020511550441015</web>
+      <reportImageURI>http://scweb.cwb.gov.tw/webdata/OLDEQ/201802/2018020511550441015.gif</reportImageURI>
+      <shakemapImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/plotContour/2018/2018015.gif</shakemapImageURI>
+      <earthquakeInfo>
+        <originTime>2018-02-05T11:55:04+08:00</originTime>
+        <epicenter>
+          <epicenterLon unit="度">121.73</epicenterLon>
+          <epicenterLat unit="度">24.24</epicenterLat>
+          <location>花蓮縣政府北偏東方  30.1  公里 (位於花蓮縣近海)</location>
+        </epicenter>
+        <depth unit="公里">12.1</depth>
+        <magnitude>
+          <magnitudeType>芮氏規模</magnitudeType>
+          <magnitudeValue>4.1</magnitudeValue>
+        </magnitude>
+        <source>中央氣象局</source>
+      </earthquakeInfo>
+      <intensity>
+        <shakingArea>
+          <areaDesc>宜蘭縣地區</areaDesc>
+          <areaName>宜蘭縣</areaName>
+          <areaIntensity unit="級">4</areaIntensity>
+          <infoStatus>observe</infoStatus>
+          <eqStation>
+            <stationName>南澳</stationName>
+            <stationCode>ENA</stationCode>
+            <stationLon unit="度">121.75</stationLon>
+            <stationLat unit="度">24.43</stationLat>
+            <distance unit="公里">20.31</distance>
+            <azimuth unit="度">185.25</azimuth>
+            <stationIntensity unit="級">4</stationIntensity>
+            <pga unit="gal">
+              <vComponent>8.31</vComponent>
+              <nsComponent>39.96</nsComponent>
+              <ewComponent>41.57</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+            <waveImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/outcome/2018/2018015/4-ENA.gif</waveImageURI>
+          </eqStation>
+          <eqStation>
+            <stationName>牛鬥</stationName>
+            <stationCode>ENT</stationCode>
+            <stationLon unit="度">121.57</stationLon>
+            <stationLat unit="度">24.64</stationLat>
+            <distance unit="公里">46.51</distance>
+            <azimuth unit="度">159.99</azimuth>
+            <stationIntensity unit="級">2</stationIntensity>
+            <pga unit="gal">
+              <vComponent>1.85</vComponent>
+              <nsComponent>2.69</nsComponent>
+              <ewComponent>3.47</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+            <waveImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/outcome/2018/2018015/2-ENT.gif</waveImageURI>
+          </eqStation>
+          <eqStation>
+            <stationName>羅東</stationName>
+            <stationCode>NLD</stationCode>
+            <stationLon unit="度">121.77</stationLon>
+            <stationLat unit="度">24.67</stationLat>
+            <distance unit="公里">47.88</distance>
+            <azimuth unit="度">185.12</azimuth>
+            <stationIntensity unit="級">1</stationIntensity>
+            <pga unit="gal">
+              <vComponent>0.48</vComponent>
+              <nsComponent>1.20</nsComponent>
+              <ewComponent>0.54</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+            <waveImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/outcome/2018/2018015/1-NLD.gif</waveImageURI>
+          </eqStation>
+        </shakingArea>
+        <shakingArea>
+          <areaDesc>花蓮縣地區</areaDesc>
+          <areaName>花蓮縣</areaName>
+          <areaIntensity unit="級">3</areaIntensity>
+          <infoStatus>observe</infoStatus>
+          <eqStation>
+            <stationName>和平</stationName>
+            <stationCode>EHP</stationCode>
+            <stationLon unit="度">121.75</stationLon>
+            <stationLat unit="度">24.31</stationLat>
+            <distance unit="公里">7.34</distance>
+            <azimuth unit="度">194.69</azimuth>
+            <stationIntensity unit="級">3</stationIntensity>
+            <pga unit="gal">
+              <vComponent>5.50</vComponent>
+              <nsComponent>10.11</nsComponent>
+              <ewComponent>10.95</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+            <waveImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/outcome/2018/2018015/3-EHP.gif</waveImageURI>
+          </eqStation>
+          <eqStation>
+            <stationName>太魯閣</stationName>
+            <stationCode>ETL</stationCode>
+            <stationLon unit="度">121.62</stationLon>
+            <stationLat unit="度">24.16</stationLat>
+            <distance unit="公里">14.46</distance>
+            <azimuth unit="度">49.13</azimuth>
+            <stationIntensity unit="級">2</stationIntensity>
+            <pga unit="gal">
+              <vComponent>2.63</vComponent>
+              <nsComponent>6.94</nsComponent>
+              <ewComponent>4.79</ewComponent>
+            </pga>
+            <infoStatus>observe</infoStatus>
+            <waveImageURI>http://scweb.cwb.gov.tw/webdata/drawTrace/outcome/2018/2018015/2-ETL.gif</waveImageURI>
+          </eqStation>
+          <eqStation>
+            <stationName>壽豐</stationName>
+            <stationCode>ESF</stationCode>
+            <stationLon unit="度">121.51</stationLon>
+            <stationLat unit="度">23.87</stationLat>
+            <distance unit="公里">47.19</distance>
+            <azimuth unit="度">28.77</azimuth>
+            <stationIntensity unit="級">1</stationIntensity>
+          </eqStation>
+        </shakingArea>
+        <shakingArea>
+          <areaDesc>最大震度4級地區</areaDesc>
+          <areaName>宜蘭縣</areaName>
+          <areaIntensity unit="級">4</areaIntensity>
+        </shakingArea>
+        <shakingArea>
+          <areaDesc>最大震度3級地區</areaDesc>
+          <areaName>花蓮縣</areaName>
+          <areaIntensity unit="級">3</areaIntensity>
+        </shakingArea>
+      </intensity>
+      <reportRemark>本報告係中央氣象局地震觀測網即時地震資料地震速報之結果。</reportRemark>
+    </earthquake>
+  </dataset>
+</cwbopendata>
