@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+	<meta charset="UTF-8">
+	<title>臺北市政府全球資訊網－停機公告</title>
+
+	<link type="text/css" rel="stylesheet" href="css/normalize.css">
+	<link type="text/css" rel="stylesheet" href="css/index.css">
+
+</head>
+<body>
+
+	<div class="main">
+		<div class="topbg">
+			<div class="toplog">
+				<h1>
+					<img src="images/major_logo.png" alt="臺北市政府全球資訊網">
+				</h1>
+			</div>
+		</div>
+		<div class="content">
+			<div class="title"><h2>停機公告</h2></div>
+			<div class="info">
+				<p>
+					<span style="font-size: 1.25em;"><strong>親愛的市民朋友，您好：</strong></span><br />
+					由於目前正進行電力設備維護，<br />目前網站暫時停止服務，<br />預計將於<span style="color: red">3月18日下午6點</span>前恢復服務，<br />造成您的不便之處，敬請見諒。
+				</p>
+			</div>
+			<div class="table">
+				<table class="rwdtable" summary="此表為停電期間各機關對外發布資訊;第一欄位為公告事項與活動主題;第二欄位為公告與活動資訊描述;第三欄位為相關網址">
+					<caption>停電期間各機關對外發布資訊</caption>
+					<thead>
+						<tr>
+							<th style="width: 28%;">公告事項與活動主題</th>
+							<th>公告與活動資訊描述</th>
+							<th style="width: 14%;">相關網址</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>1999服務範圍影響公告</p></td>
+							<td data-label="公告與活動資訊描述"><p>本府各項系統目前暫停運作，<b>1999</b>市民熱線以人工作業方式維持接線，惟服務暫時受限，受限情形請於撥打<b>1999</b>後聽取語音訊息公告，造成不便，敬請見諒</p></td>
+							<td data-label="相關網址"></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>「松德療癒親子慢遊」人口政策活動</p></td>
+							<td data-label="公告與活動資訊描述"><p>臺北市信義區公所訂於<span class="time">3/17(六)上午9:30至11:30</span>，在松德療癒森林(臺北市信義區松德路309號)，舉辦「松德療癒親子慢遊」人口政策活動，歡迎市民朋友闔家親子一起來走走，享受松德療癒森林五感氛圍!</p></td>
+							<td data-label="相關網址"><a href="https://www.facebook.com/xinyido/" target="_blank" title="臺北市信義區公所-臉書(另開新視窗)">網站連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>萬華區107年登山健行活動</p></td>
+							<td data-label="公告與活動資訊描述"><p>萬華區107年健行活動訂於<span class="time">107年3月18日（星期日）上午8時30分</span>臺北市馬場町紀念公園舉行。</p></td>
+							<td data-label="相關網址"></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>臺北市松山區健康服務中心3月16至17日社區篩檢服務</p></td>
+							<td data-label="公告與活動資訊描述"><p>
+								<b>社區篩檢服務時間地點為:</b>
+								<ul>
+									<li><span>3/16 17:30</span>家樂福三民店社篩</li>
+									<li><span>3/17 9:00</span>東榮里社篩</li>
+									<li><span>3/17 9:00</span>中正里社篩</li>
+								</ul>
+							</p></td>
+							<td data-label="相關網址"><a href="https://www.facebook.com/sshc.taipei/" target="_blank" title="臺北市松山區健康服務中心-臉書(另開新視窗)">網站連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>107年度大臺北水源故鄉巡禮活動</p></td>
+							<td data-label="公告與活動資訊描述"><p>107年度大臺北水源故鄉巡禮活動第二梯次訂於<span class="time">107年3月24日上午</span>於翡翠水庫管理局舉辦，請民眾踴躍報名參加!</p></td>
+							<td data-label="相關網址"><a href="http://activity.feitsui.gov.tw/activity/index.aspx" target="_blank" title="107年度大臺北水源故鄉巡禮活動-報名系統(另開新視窗)">系統連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>臺北市立天文科學教育館開放時間</p></td>
+							<td data-label="公告與活動資訊描述"><p>對外開放時間：<span class="time">每週一休館，週日及週二至周五：上午9時至下午5時。週六：上午9時至下午8時。</span>電話：(02)28314551</p></td>
+							<td data-label="相關網址"></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>官網暫停服務該如何收聽臺北廣播電臺節目</p></td>
+							<td data-label="公告與活動資訊描述"><p>可透過下列方式，收聽精彩節目唷~ <br/>●實體廣播 轉開收音機鎖定<b>FM93.1、AM1134</b></p></td>
+							<td data-label="相關網址">
+								 ●線上收聽<br/>
+								<a href="https://goo.gl/9gAQXU" target="_blank" title="臺北廣播電臺節目線上收聽FM(另開新視窗)">FM連結</a>
+								<a href="https://goo.gl/qwYuPb" target="_blank" title="臺北廣播電臺節目線上收聽AM(另開新視窗)">AM連結</a>
+							</td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>捷運行動版網站</p></td>
+							<td data-label="公告與活動資訊描述"><p>本公司官網暫停服務期間，如需查詢捷運相關資訊，可至本公司行動版網站查詢。</td>
+							<td data-label="相關網址"><a href="https://m.metro.taipei/" target="_blank" title="捷運行動版網站(另開新視窗)">網站連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>捷運徵才</p></td>
+							<td data-label="公告與活動資訊描述"><p><span class="time">107/2/22 10:00 至 107/3/21 17:00</span>捷運徵才報名中，歡迎加入我們</p></td>
+							<td data-label="相關網址"><a href="https://ssl.metro.taipei/workerdataV2/" target="_blank" title="臺北捷運徵才系統(另開新視窗)">系統連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>文山區景美女中調車場基地公共住宅說明會</p></td>
+							<td data-label="公告與活動資訊描述"><p>
+								<ul>
+									<li>活動時間：<span class="time">3/17(六) 19:00 - 21:00</span></li>
+									<li>活動地點：臺北市文山區一壽街22號 (文山區樟新區民活動中心)</li>
+								</ul>
+							</p></td>
+							<td data-label="相關網址"><a href="https://youtu.be/3nZtxf10_7M" target="_blank" title="文山區景美女中調車場基地公共住宅說明會(另開新視窗)">影片連結</a></td>
+						</tr>
+						<tr>
+							<td data-label="公告事項與活動主題"><p>環保局空氣品質公告訊息</p></td>
+							<td data-label="公告與活動資訊描述"><p>有關本局空氣品質及即時訊息，將公告於本局臉書，歡迎民眾前往點閱。</p></td>
+							<td data-label="相關網址"><a href="https://www.facebook.com/taipeidep/" target="_blank" title="臺北市環保局-臉書(另開新視窗)">網站連結</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>
