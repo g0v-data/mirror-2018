@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2018020008" caseEndTime="" caseName="0206花蓮震災" caseStartTime="2018/02/06 23:50" cityCode="" disName="震災" eocName="中央災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2018020008" caseEndTime="2018/02/07 19:00" caseName="宜蘭縣0206震災災害應變中心" caseStartTime="2018/02/07 01:29" cityCode="10002" disName="震災" eocName="宜蘭縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018020008" caseEndTime="" caseName="0206地震" caseStartTime="2018/02/07 00:28" cityCode="10015" disName="震災" eocName="花蓮縣災害應變中心" openTier="1"/>
+        <openCaseInfo caseCode="2018020008" caseEndTime="" caseName="0206臨時突發狀況(地震)" caseStartTime="2018/02/07 00:00" cityCode="63" disName="震災" eocName="臺北市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018020008" caseEndTime="2018/02/09 20:00" caseName="0206花蓮震災" caseStartTime="2018/02/07 00:20" cityCode="" disName="震災" eocName="花蓮港災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>
