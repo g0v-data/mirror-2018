@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0613豪雨" caseStartTime="2018/06/13 18:00" cityCode="" disName="水災" eocName="中央災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0613豪雨" caseStartTime="2018/06/14 17:30" cityCode="10013" disName="水災" eocName="屏東縣災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0613豪雨" caseStartTime="2018/06/14 10:19" cityCode="10014" disName="水災" eocName="臺東縣災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0613豪雨" caseStartTime="2018/06/13 18:00" cityCode="67" disName="水災" eocName="臺南市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0614水災三級開設" caseStartTime="2018/06/14 09:00" cityCode="63" disName="水災" eocName="臺北市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018060046" caseEndTime="" caseName="0613豪雨" caseStartTime="2018/06/13 12:00" cityCode="64" disName="水災" eocName="高雄市災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>
