@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2018090030" caseEndTime="" caseName="山竹颱風" caseStartTime="2018/09/14 12:30" cityCode="" disName="風災" eocName="中央災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018090030" caseEndTime="" caseName="山竹颱風" caseStartTime="2018/09/15 08:00" cityCode="10013" disName="風災" eocName="屏東縣災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018090030" caseEndTime="" caseName="山竹颱風" caseStartTime="2018/11/16 12:49" cityCode="10014" disName="水災" eocName="臺東縣災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018090030" caseEndTime="" caseName="山竹颱風" caseStartTime="2018/09/14 12:47" cityCode="10015" disName="風災" eocName="花蓮縣災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>
