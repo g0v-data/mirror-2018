@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>本日0時至現在雨量站資料(2018/09/04 00:00 ~ 2018/09/04 16:00)</name>	<StyleMap id="symbol_black">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#symbol_black-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#symbol_black-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="symbol_black-highlight">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_black.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="symbol_black-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+	<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_black.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>		</IconStyle>
+	</Style>
+	<StyleMap id="symbol_blue">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#symbol_blue-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#symbol_blue-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="symbol_blue-highlight">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_blue.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="symbol_blue-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+	<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_blue.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="symbol_green">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#symbol_green-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#symbol_green-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="symbol_green-highlight">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_green.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="symbol_green-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+	<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_green.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="symbol_orange">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#symbol_orange-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#symbol_orange-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="symbol_orange-highlight">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_orange.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="symbol_orange-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+	<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_orange.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="symbol_red">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#symbol_red-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#symbol_red-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="symbol_red-highlight">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_red.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="symbol_red-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+	<href>https://www.cwb.gov.tw/wwwgis/images/rain/rainy_red.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>東沙島</name>
+		<LookAt>
+			<longitude>116.73</longitude>
+			<latitude>20.700856</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_green</styleUrl>
+		<Point>
+			<coordinates>116.73,20.700856,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">東沙島(46810)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市旗津區東沙52號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">23.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>臺南市南區</name>
+		<LookAt>
+			<longitude>120.188378</longitude>
+			<latitude>22.961189</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_green</styleUrl>
+		<Point>
+			<coordinates>120.188378,22.961189,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">臺南市南區(C0X11)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市南區明興路2號(南區區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">20.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>溪南</name>
+		<LookAt>
+			<longitude>120.788475</longitude>
+			<latitude>23.084972</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_green</styleUrl>
+		<Point>
+			<coordinates>120.788475,23.084972,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">溪南(C1V58)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市桃源區石山林道7K(特有生物研究保育中心中海拔試驗站)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">16.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>臺南市北區</name>
+		<LookAt>
+			<longitude>120.194228</longitude>
+			<latitude>23.010394</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.194228,23.010394,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">臺南市北區(C0X10)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市北區文賢路678號(和緯消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">12.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>湖內</name>
+		<LookAt>
+			<longitude>120.2445</longitude>
+			<latitude>22.887139</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.2445,22.887139,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">湖內(C0V64)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市湖內區中山路一段290-1號(湖街派出所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">11.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>永安</name>
+		<LookAt>
+			<longitude>120.236856</longitude>
+			<latitude>22.82315</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.236856,22.82315,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">永安(C0V62)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市永安區永安路32號(永安消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">8.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>阿蓮</name>
+		<LookAt>
+			<longitude>120.327508</longitude>
+			<latitude>22.883208</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.327508,22.883208,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">阿蓮(C0V53)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市阿蓮區(阿蓮區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">8.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>沙崙</name>
+		<LookAt>
+			<longitude>120.309406</longitude>
+			<latitude>22.935472</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.309406,22.935472,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">沙崙(C1N00)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市歸仁區沙崙里184號(北沙崙農場)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">8.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>媽廟</name>
+		<LookAt>
+			<longitude>120.293525</longitude>
+			<latitude>22.99175</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.293525,22.99175,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">媽廟(C0O99)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市歸仁區中正北路三段60號(保西國小)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">7.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>阿蓮(2)</name>
+		<LookAt>
+			<longitude>120.327203</longitude>
+			<latitude>22.876332</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.327203,22.876332,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">阿蓮(2)(01P50)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市阿蓮區清蓮里中山路222號(水利會阿蓮工作站)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">7.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>林園</name>
+		<LookAt>
+			<longitude>120.394511</longitude>
+			<latitude>22.507747</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.394511,22.507747,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">林園(C0V72)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市林園區林園北路179號(林園區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">7.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>水利署金山</name>
+		<LookAt>
+			<longitude>120.398164</longitude>
+			<latitude>22.811862</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.398164,22.811862,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">水利署金山(01P39)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市燕巢區金山里番田路29號(金山國小)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">6.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>臺南</name>
+		<LookAt>
+			<longitude>120.2047722</longitude>
+			<latitude>22.99323889</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.2047722,22.99323889,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">臺南(46741)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市中西區公園路21號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">6.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>茄萣</name>
+		<LookAt>
+			<longitude>120.182608</longitude>
+			<latitude>22.906642</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.182608,22.906642,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">茄萣(C0V63)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市茄萣區濱海路四段27號(茄萣區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">6.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>安平</name>
+		<LookAt>
+			<longitude>120.152181</longitude>
+			<latitude>22.993161</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.152181,22.993161,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">安平(C0X19)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市安平區城平路2號(台江國家公園管理處)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">6.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>安南</name>
+		<LookAt>
+			<longitude>120.144861</longitude>
+			<latitude>23.076694</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.144861,23.076694,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">安南(C0O95)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市安南區公學路六段589號(學東國小)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">5.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>梓官</name>
+		<LookAt>
+			<longitude>120.267211</longitude>
+			<latitude>22.760558</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.267211,22.760558,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">梓官(C0V61)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市梓官區梓官路258號(梓官區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">4.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>東港</name>
+		<LookAt>
+			<longitude>120.440744</longitude>
+			<latitude>22.462467</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.440744,22.462467,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">東港(C0R64)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>屏東縣東港鎮豐漁里豐漁街67號(水產試驗所東港生技研究中心)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">3.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>虎頭埤</name>
+		<LookAt>
+			<longitude>120.337183</longitude>
+			<latitude>23.025684</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.337183,23.025684,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">虎頭埤(01O71)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市新化區東榮里中興路42巷36號(虎頭埤水庫)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">3.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>路竹</name>
+		<LookAt>
+			<longitude>120.259439</longitude>
+			<latitude>22.854997</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_blue</styleUrl>
+		<Point>
+			<coordinates>120.259439,22.854997,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">路竹(C0V75)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市路竹區國昌路76號(路竹區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">3.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>永康</name>
+		<LookAt>
+			<longitude>120.2367</longitude>
+			<latitude>23.03838611</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.2367,23.03838611,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">永康(46742)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市永康區鹽行里正南五街520巷88號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">2.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>橋頭</name>
+		<LookAt>
+			<longitude>120.30575</longitude>
+			<latitude>22.757806</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.30575,22.757806,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">橋頭(C0V76)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市橋頭區隆豐路1號(橋頭區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">2.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>仁德</name>
+		<LookAt>
+			<longitude>120.257689</longitude>
+			<latitude>22.968258</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.257689,22.968258,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">仁德(C0X16)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市仁德區仁義路432號(仁德消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">2.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>大湖</name>
+		<LookAt>
+			<longitude>120.620206</longitude>
+			<latitude>23.474972</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.620206,23.474972,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">大湖(C1M57)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>嘉義縣番路鄉大湖村五鄰下坪8號(大湖國小)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">2.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>尖山</name>
+		<LookAt>
+			<longitude>120.367789</longitude>
+			<latitude>22.813153</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.367789,22.813153,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">尖山(C1V39)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市燕巢區尖山里尖山巷11-1號(燕巢國小尖山分校)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">2.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>善化</name>
+		<LookAt>
+			<longitude>120.297219</longitude>
+			<latitude>23.112883</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.297219,23.112883,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">善化(C0O90)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市善化區益民寮60號(亞洲蔬菜研究發展中心)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>旗津</name>
+		<LookAt>
+			<longitude>120.285944</longitude>
+			<latitude>22.5886</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.285944,22.5886,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">旗津(C0V50)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市旗津區中洲二路207號(旗津國中)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>彌陀</name>
+		<LookAt>
+			<longitude>120.246361</longitude>
+			<latitude>22.783806</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.246361,22.783806,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">彌陀(C0V65)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市彌陀區中正北路7號(彌陀消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>安定</name>
+		<LookAt>
+			<longitude>120.227839</longitude>
+			<latitude>23.102614</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.227839,23.102614,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">安定(C0X15)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市安定區南安村油車33之11號(安定消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>關廟</name>
+		<LookAt>
+			<longitude>120.327797</longitude>
+			<latitude>22.963017</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.327797,22.963017,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">關廟(C0X17)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市關廟區中正路998號(關廟區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>七股</name>
+		<LookAt>
+			<longitude>120.086253</longitude>
+			<latitude>23.147289</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.086253,23.147289,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">七股(C0X31)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市七股區鹽埕237-11號(七股雷達站)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>藤枝</name>
+		<LookAt>
+			<longitude>120.757042</longitude>
+			<latitude>23.071961</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.757042,23.071961,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">藤枝(C1V60)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市桃源區(藤枝森林遊樂區遊客中心)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>恆春</name>
+		<LookAt>
+			<longitude>120.7463389</longitude>
+			<latitude>22.00389722</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.7463389,22.00389722,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">恆春(46759)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>屏東縣恆春鎮天文路50號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>虎頭埤</name>
+		<LookAt>
+			<longitude>120.347878</longitude>
+			<latitude>23.021375</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.347878,23.021375,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">虎頭埤(C0O97)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市新化區口埤18號(新化分場)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>古亭坑</name>
+		<LookAt>
+			<longitude>120.401947</longitude>
+			<latitude>22.893178</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.401947,22.893178,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">古亭坑(C0V37)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市田寮區古亭里</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>阿公店</name>
+		<LookAt>
+			<longitude>120.355528</longitude>
+			<latitude>22.804194</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.355528,22.804194,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">阿公店(C0V40)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市燕巢區西燕里工程路1號(阿公店水庫)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>岡山</name>
+		<LookAt>
+			<longitude>120.294958</longitude>
+			<latitude>22.797078</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.294958,22.797078,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">岡山(C0V66)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市岡山區岡山路341號(岡山地政事務所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>仁武</name>
+		<LookAt>
+			<longitude>120.347722</longitude>
+			<latitude>22.701083</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.347722,22.701083,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">仁武(C0V68)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市仁武區中正路133號(仁武區公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">1.0</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>臺南農改</name>
+		<LookAt>
+			<longitude>120.342194</longitude>
+			<latitude>23.0605</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.342194,23.0605,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">臺南農改(72N10)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市新化區牧場路70號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>羌黃坑</name>
+		<LookAt>
+			<longitude>120.536955</longitude>
+			<latitude>23.07211</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.536955,23.07211,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">羌黃坑(88O95)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市南化區玉山里</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>畜試所</name>
+		<LookAt>
+			<longitude>120.336406</longitude>
+			<latitude>23.058972</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.336406,23.058972,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">畜試所(B2N89)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市新化區那菝里牧場112號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>南湖圈谷</name>
+		<LookAt>
+			<longitude>121.444667</longitude>
+			<latitude>24.363714</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>121.444667,24.363714,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">南湖圈谷(C0F0E)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺中市和平區南湖大山指標20K處附近(南湖主峰東峰岔路附近)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>桃山</name>
+		<LookAt>
+			<longitude>121.303808</longitude>
+			<latitude>24.432739</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>121.303808,24.432739,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">桃山(C0F9Y)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺中市和平區(桃山山屋叉路解說牌附近)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>東石</name>
+		<LookAt>
+			<longitude>120.153831</longitude>
+			<latitude>23.458911</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.153831,23.458911,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">東石(C0M71)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>嘉義縣東石鄉東石村3號(東石鄉公所)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>琉球嶼</name>
+		<LookAt>
+			<longitude>120.362236</longitude>
+			<latitude>22.332244</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.362236,22.332244,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">琉球嶼(C0R27)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>屏東縣琉球鄉天台段596、597地號</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>西港</name>
+		<LookAt>
+			<longitude>120.203108</longitude>
+			<latitude>23.125608</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.203108,23.125608,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">西港(C0X14)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市西港區中山路450號(西港消防分隊)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>關子嶺</name>
+		<LookAt>
+			<longitude>120.508025</longitude>
+			<latitude>23.331169</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.508025,23.331169,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">關子嶺(C0X24)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺南市白河區關嶺里94-3號(仙草國小關嶺分校)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>雪嶺</name>
+		<LookAt>
+			<longitude>121.026642</longitude>
+			<latitude>24.280586</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>121.026642,24.280586,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">雪嶺(C1F94)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺中市和平區(雪嶺地區八仙山事業區60林班、小雪山莊後山)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>烏石坑</name>
+		<LookAt>
+			<longitude>120.945811</longitude>
+			<latitude>24.279058</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.945811,24.279058,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">烏石坑(C1F9H)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>臺中市和平區(大安溪事業區122林班烏石坑苗圃)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>翠峰</name>
+		<LookAt>
+			<longitude>121.205211</longitude>
+			<latitude>24.109397</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>121.205211,24.109397,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">翠峰(C1H00)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>南投縣仁愛鄉大同村仁和路136號(台14甲線19K-19.5K長途通信機房旁)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>武界</name>
+		<LookAt>
+			<longitude>121.052483</longitude>
+			<latitude>23.913225</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>121.052483,23.913225,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">武界(C1I03)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>南投縣仁愛鄉法治村</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>大尖山</name>
+		<LookAt>
+			<longitude>120.994889</longitude>
+			<latitude>23.858572</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.994889,23.858572,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">大尖山(C1I50)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>南投縣仁愛鄉大尖山</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>南天池</name>
+		<LookAt>
+			<longitude>120.911764</longitude>
+			<latitude>23.274033</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.911764,23.274033,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">南天池(C1V19)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市桃源區(長青祠旁之步道步行約50分鐘)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+	<Placemark>
+		<name>小關山</name>
+		<LookAt>
+			<longitude>120.813603</longitude>
+			<latitude>23.154217</latitude>
+			<altitude>0</altitude>
+			<range>0</range>
+			<tilt>0</tilt>
+			<heading>0</heading>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#symbol_black</styleUrl>
+		<Point>
+			<coordinates>120.813603,23.154217,0</coordinates>
+		</Point>
+		<description><![CDATA[		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#A9C5DC" summary="雨量資訊">
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor="f5f5f5">地點(測站碼)</th>
+		<th valign="middle" width="100" align="left" bgcolor="f5f5f5">小關山(C1V22)</th>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>所在地</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>高雄市桃源區(荖濃溪事業區99林班)</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>更新時間</th>
+		<td valign="middle" width="100" align="left" bgcolor=white>2018-09-04 16:07:52</td>
+		</tr>
+		<tr>
+		<th valign="middle" width="160" align="left" bgcolor=f5f5f5>本日0時至現在累積<br>雨量(毫米)</th>
+		<td valign="middle" width="100" align="left" bgcolor=white id="rainmm">0.5</td>
+		</tr>
+		</table>
+		]]></description>
+	</Placemark>
+</Document>
+</kml>
