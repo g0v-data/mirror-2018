@@ -1,0 +1,25 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	檔案下載
+</title></head>
+<body>
+    <form method="post" action="./DownloadFile.aspx?DATA=1E91AC2B-48B3-47A3-83B4-EB4A8AD930B9" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Vq8HcS4+x7879MJaXWBkvN18F4kNZXGUd4E8pKAxEA3FUEXagN6Chb4x63ljw8BrdjNPKZUknWDL+BbQvOzbuDS6epTdAT304jqBqFRs6W3DM4CSkPT2pjbs8ixDxQaZwte6Mw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3F8D8128" />
+    <div>
+    
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+alert('查無資料');//]]>
+</script>
+</form>
+</body>
+</html>
