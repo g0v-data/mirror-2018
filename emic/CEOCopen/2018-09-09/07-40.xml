@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EEMResp>
+    <OpenCaseInfoList>
+        <openCaseInfo caseCode="2018090006" caseEndTime="" caseName="0908豪雨" caseStartTime="2018/09/08 08:00" cityCode="" disName="水災" eocName="中央災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018090006" caseEndTime="2018/09/08 22:30" caseName="0908豪雨" caseStartTime="2018/09/08 17:05" cityCode="65" disName="水災" eocName="新北市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018090006" caseEndTime="2018/09/08 23:51" caseName="0908豪雨" caseStartTime="2018/09/08 20:30" cityCode="10017" disName="水災" eocName="基隆市災害應變中心" openTier="3"/>
+        <openCaseInfo caseCode="2018090006" caseEndTime="" caseName="0908豪雨" caseStartTime="2018/09/09 07:59" cityCode="10017" disName="水災" eocName="基隆市災害應變中心" openTier="2"/>
+        <openCaseInfo caseCode="2018090006" caseEndTime="2018/09/08 23:41" caseName="0908水災災害應變中心" caseStartTime="2018/09/08 17:30" cityCode="63" disName="水災" eocName="臺北市災害應變中心" openTier="2"/>
+    </OpenCaseInfoList>
+    <resultCode>S</resultCode>
+    <resultText>SUCCESS</resultText>
+</EEMResp>
